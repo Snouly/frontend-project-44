@@ -4,3 +4,5 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/c64eaddc4ca1a7c6947d/maintainability)](https://codeclimate.com/github/Snouly/frontend-project-44/maintainability)
 
 [![asciicast](https://asciinema.org/a/rUXfxCZx4nMSrzemHus9v7Fvz.svg)](https://asciinema.org/a/rUXfxCZx4nMSrzemHus9v7Fvz)
+
+[![asciicast](https://asciinema.org/a/QK33odrulFKM9NZqDjuBTtLAG.svg)](https://asciinema.org/a/QK33odrulFKM9NZqDjuBTtLAG)
