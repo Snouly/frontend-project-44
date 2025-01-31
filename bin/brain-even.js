@@ -7,10 +7,6 @@ export function isEven(name) {
     let counter = 0
     console.log('Answer \"yes\" if the number is even, otherwise answer \"no\".')
     while (counter <3){
-        // if (counter = 2){
-        //     console.log(`Congratulations, ${name}!`)
-        // }
-        // console.log('Answer \"yes\" if the number is even, otherwise answer \"no\".')
         let num = Math.floor(Math.random() * 100);
         
         let correctAnswer = ''
