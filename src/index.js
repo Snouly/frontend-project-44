@@ -3,11 +3,13 @@ import readlineSync from 'readline-sync';
 
 
 export function gameRounds (rules, getQuestionsAndAnswer, userName) {
-  
+
   console.log(rules);
   let correctAnswersCount = 0;
 
-  while (correctAnswersCount < 3) { // 3 = количество раундов
+
+  const rounds = 3
+  while (correctAnswersCount < rounds) { 
     const [question, correctAnswer] = getQuestionsAndAnswer()
     console.log(`Question: ${question}`)
     const userAnswer = readlineSync.question('Your answer: ')
