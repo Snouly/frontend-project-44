@@ -1,7 +1,10 @@
 // Общая логика
 import readlineSync from 'readline-sync';
+import welcome from './cli.js'
 
-export function gameRounds(rules, getQuestionsAndAnswer, userName) {
+const userName = welcome();
+
+export function gameRounds(rules, getQuestionsAndAnswer) {
   console.log(rules);
   let correctAnswersCount = 0;
 
