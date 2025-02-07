@@ -4,6 +4,6 @@ const isEvenNum = (num) => num % 2 === 0
 export const rule = 'Answer "yes" if the number is even, otherwise answer "no".'
 export function getQuestionAndAnswer () {
   const question = randomNum()
-  const answer = isEvenNum(num) ? 'yes' : 'no'
+  const answer = isEvenNum(question) ? 'yes' : 'no'
   return [question, answer]
 }
