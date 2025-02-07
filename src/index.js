@@ -1,6 +1,6 @@
 // Общая логика
 import readlineSync from 'readline-sync';
-import welcome from './cli.js'
+import welcome from './cli.js';
 
 const userName = welcome();
 
