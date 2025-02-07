@@ -9,7 +9,7 @@ This repository is a collection of five simple mini—games created as part of a
 
 ## Launching mini-games
 
-- **Game: "Parity Check"**
+### "Parity Check"
 
 To launch it, use `make brain-even`
 
@@ -17,7 +17,7 @@ To launch it, use `make brain-even`
 
 
 
-- **Game: "Calculator"**
+### "Calculator"
 
 To launch it, use `make brain-calc`
 
@@ -25,7 +25,7 @@ To launch it, use `make brain-calc`
 
 
 
-- **Игра: "Greatest Common Divisor (GCD)"**
+### "Greatest Common Divisor (GCD)"
 
 To launch it, use `make brain-gcd`
 
@@ -33,7 +33,7 @@ To launch it, use `make brain-gcd`
 
 
 
-- **Игра: "Arithmetic progression"**
+### "Arithmetic progression"
 
 To launch it, use `make brain-progression`
 
@@ -41,7 +41,7 @@ To launch it, use `make brain-progression`
 
 
 
-- **Игра: "Prime number"**
+### "Prime number"
 
 To launch it, use `make brain-prime`
 
@@ -50,4 +50,4 @@ To launch it, use `make brain-prime`
 
 
 
-<img src="https://media1.tenor.com/m/2MRDiRFMDiQAAAAC/skeleton-waiting-skeleton-cheezit.gif" width="40" height="40" />
+<img src="https://media1.tenor.com/m/2MRDiRFMDiQAAAAC/skeleton-waiting-skeleton-cheezit.gif" width="80" height="80" />
