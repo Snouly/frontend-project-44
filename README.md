@@ -13,7 +13,7 @@ This repository is a collection of five simple mini—games created as part of a
 
 To launch it, use `make brain-even`
 
-[![asciicast](https://asciinema.org/a/rUXfxCZx4nMSrzemHus9v7Fvz.svg)](https://asciinema.org/a/rUXfxCZx4nMSrzemHus9v7Fvz)
+![even](https://github.com/user-attachments/assets/897d95d2-6b4e-4ebc-9ead-8dd79d84cfce)
 
 
 
@@ -21,7 +21,7 @@ To launch it, use `make brain-even`
 
 To launch it, use `make brain-calc`
 
-[![asciicast](https://asciinema.org/a/QK33odrulFKM9NZqDjuBTtLAG.svg)](https://asciinema.org/a/QK33odrulFKM9NZqDjuBTtLAG)
+![calc](https://github.com/user-attachments/assets/90c110ed-093e-4819-8c80-10ed01601a66)
 
 
 
@@ -29,7 +29,7 @@ To launch it, use `make brain-calc`
 
 To launch it, use `make brain-gcd`
 
-[![asciicast](https://asciinema.org/a/45grZ62JnVz0vCTYt17j2yuZX.svg)](https://asciinema.org/a/45grZ62JnVz0vCTYt17j2yuZX)
+![gcd](https://github.com/user-attachments/assets/4f0c49d1-34c7-4b7d-af52-05f135c3f0cc)
 
 
 
@@ -37,7 +37,7 @@ To launch it, use `make brain-gcd`
 
 To launch it, use `make brain-progression`
 
-[![asciicast](https://asciinema.org/a/XMpscNg8El7WuIFmaGashucvF.svg)](https://asciinema.org/a/XMpscNg8El7WuIFmaGashucvF)
+![prog](https://github.com/user-attachments/assets/4652b751-5300-48ee-a62d-5687ef93ebb9)
 
 
 
@@ -45,7 +45,7 @@ To launch it, use `make brain-progression`
 
 To launch it, use `make brain-prime`
 
-[![asciicast](https://asciinema.org/a/PXanM0Kmd7C3jIFXanBCqUNAd.svg)](https://asciinema.org/a/PXanM0Kmd7C3jIFXanBCqUNAd)
+![prime](https://github.com/user-attachments/assets/1ca53097-30e4-45f8-9b43-9493f2f4c189)
 
 
 
